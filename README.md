@@ -1,2 +1,3 @@
-# modern-weather-app-8fe7
-A weather forecasting application for modern development workflows
+# Modern Weather App 8Fe7
+
+A weather forecasting application for modern development workflows.
